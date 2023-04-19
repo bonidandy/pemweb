@@ -12,6 +12,13 @@
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo e(route('contact')); ?>">Contact</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<?php echo e(route('sample')); ?>">Sample</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<?php echo e(route('profiles')); ?>">My Profile</a>
+                </li>
+                
             </ul>
         </div>
         <div class="flex-grow-1">
